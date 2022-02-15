@@ -1,0 +1,10 @@
+NorwayForms/bin/
+NorwayForms/obj/Debug/netcoreapp3.1/PubTmp/Out/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+NorwayForms/obj/
+Tools/UserPasswordNotifier/bin/
+Tools/UserPasswordNotifier/obj/
+obj/
+bin/
+Tools/JSON Parsing/.vscode/launch.json
+.vs/
+.vscode/
